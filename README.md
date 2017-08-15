@@ -2,8 +2,8 @@
 ## Description
 Automation download tool for NCORE torrents.
 ## How to run (on Ubuntu 16.04)
-### Install dependencies
-	```sh
+### 	Install dependencies
+```
 	sudo add-apt-repository ppa:jonathonf/python-3.6
 	sudo apt update
 	sudo apt install python3.6
@@ -11,7 +11,7 @@ Automation download tool for NCORE torrents.
 	sudo apt-get install python-pip
 	pip install request
 	pip install
-	```
+```
 
 
 ### Configure
@@ -30,6 +30,6 @@ Open searchList file and write there what do you want to download (EACH ONE IN A
 ```
 
 ### Run
-	```
+```
 	python download.py
-	```
+```
