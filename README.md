@@ -2,7 +2,7 @@
 ## Description
 Automation download tool for NCORE torrents.
 ## How to run (on Ubuntu 16.04)
-* Install dependencies
+### Install dependencies
 	```sh
 	sudo add-apt-repository ppa:jonathonf/python-3.6
 	sudo apt update
