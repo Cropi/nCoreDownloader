@@ -10,6 +10,8 @@ Automation download tool for NCORE torrents.
 
 	sudo apt-get install python-pip
 	sudo pip install requests
+	
+	git clone https://github.com/Cropi/nCoreDownloader.git
 ```
 
 
