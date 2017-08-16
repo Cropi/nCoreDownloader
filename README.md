@@ -9,7 +9,7 @@ Automation download tool for NCORE torrents.
 	sudo apt install python3.6
 
 	sudo apt-get install python-pip
-	pip install request
+	sudo pip install requests
 ```
 
 
